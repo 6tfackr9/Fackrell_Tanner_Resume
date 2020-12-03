@@ -6,7 +6,7 @@ title: Tanner Fackrell's Resume
 Data Science student at BYU-Idaho
 
 <div id="webaddress">
-<a href="tanner.fackrell@gmail.com">datascience@byui.edu</a>
+<a href="tanner.fackrell@gmail.com">tanner.fackrell@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -24,7 +24,7 @@ __LDS Business College__, Salt Lake City, UT
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Bachelor of Science, BS - Data Science 
 
 
 ## Related Experience
@@ -32,7 +32,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Internships
 
 `January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Data Analysis Specialist__, Rexburg,ID
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
@@ -54,7 +54,7 @@ __Good2Go__, Consultant
 - Established standardized SQL calls and connections for PowerBI dashboards
 - Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
+### Data Science Society Consulting Team
 
 `January 2027 - April 2027`
 __Imagine Learning__
