@@ -46,7 +46,7 @@ __Circulation Aide__, David O. McKay Library, BYU-Idaho
 - Applied listening and verbal communication skills to understand patron needs
 - Navigated library collection to locate relavent research material for patrons
 
-### Projects
+## Projects
 
 `September 2020 - December 2020`
 __R Shiny Dashboard__, Madison County Fire Department, BYU-I Data Science Society
