@@ -22,6 +22,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Bachelor of Science, BS - Data Science
 - Minor in Statistics
 
+## Skills
+__R | Python | SQL | Power BI | Tableau | C++__
+
 ## Experience
 
 `March 2020 - July 2020`
