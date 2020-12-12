@@ -61,7 +61,7 @@ __News Article Classification with Machine Learning__
 - Cleaned and prepared a dataset for machine learning containing 35,000+ news articles using the R text mining library
 - Successfully applied a Naive Bayes algorithm to classify news articles as true or untrue with 96% accuracy
 
-## Service and Work History
+## Service and Volunteer History
 
 `September 2020 - December 2020`
 __CIT Online Help Lab Volunteer Tutor__, BYU-Idaho
