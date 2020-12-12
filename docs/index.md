@@ -36,7 +36,7 @@ __R Shiny Dashboard Developer__, BYU-I Data Science Society, BYU-Idaho
 __Data Analysis Specialist__, David O. McKay Library, BYU-Idaho 
 
 - Created an interactive dashboard of employee remote hours using R Shiny to 
-report accountaability to library management
+report accountability to library management
 - Used R and Visual Sample Plan to establish new sampling algorithms
 - Published a journal article in Environmental Quality.
 
