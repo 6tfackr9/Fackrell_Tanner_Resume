@@ -16,23 +16,31 @@ Data Science student at BYU-Idaho
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected Graduation: December 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Bachelor of Science, BS - Data Science 
+- Bachelor of Science, BS - Data Science
+- Minor in Statistics
+
+## Experience
+
+`September 2020 - December 2020`
+__R Shiny Dashboard Developer__, BYU-I Data Science Society, BYU-Idaho 
+
+- Worked on novel methods for soil sampling to reduce laboratory measurements
+- Used R and Visual Sample Plan to establish new sampling algorithms
+- Published a journal article in Environmental Quality.
 
 
-## Related Experience
+`March 2020 - July 2020`
+__Data Analysis Specialist__, David O. McKay Library, BYU-Idaho 
 
-### Internships
+- Worked on novel methods for soil sampling to reduce laboratory measurements
+- Used R and Visual Sample Plan to establish new sampling algorithms
+- Published a journal article in Environmental Quality.
 
-`January 2028 - June 2028`
-__Data Analysis Specialist__, Rexburg,ID
+`March 2020 - July 2020`
+__Teaching Assistant - Intermediate Statistics__, Math 325 , BYU-Idaho 
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
@@ -41,14 +49,16 @@ __Data Analysis Specialist__, Rexburg,ID
 ### Data Science Lead
 
 `April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+__Teaching Assistant - Intermediate Statistics__, BYU-Idaho
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
 - Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+
+### Projects
+`September 2020 - December 2020`
+__Madison County Fire Department__, Shiny Dashboard Developer
 
 - Built product ordering and supply predictive algorithms for chips and beverages categories
 - Established standardized SQL calls and connections for PowerBI dashboards
@@ -74,11 +84,13 @@ __Pinnacle Management Group__,
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__CIT Online Help Lab Volunteer Tutor__, BYU-Idaho
+
+- Debugged student code and taught concepts involving SQL queries and Database Design
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2019`
+__Service Missionary__, Manchester England
 
 
 
