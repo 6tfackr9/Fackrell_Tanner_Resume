@@ -42,7 +42,7 @@ __Data Analysis Specialist__, David O. McKay Library, BYU-Idaho
 `March 2020 - July 2020`
 __Teaching Assistant - Intermediate Statistics__, Math 325 , BYU-Idaho 
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
+- Tutored students in topics of statistical inference
 - Used R and Visual Sample Plan to establish new sampling algorithms
 - Published a journal article in Environmental Quality.
 
