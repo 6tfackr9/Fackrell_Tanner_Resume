@@ -8,8 +8,8 @@ Data Science student at BYU-Idaho
 <div id="webaddress">
 <a href="tanner.fackrell@gmail.com">tanner.fackrell@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/tanner-fackrell/">LinkedIn</a>
+| <a href="https://github.com/6tfackr9">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -36,8 +36,8 @@ report accountability to library management
 __Teaching Assistant - Intermediate Statistics__, Math 325, BYU-Idaho 
 
 - Cooperated with Professor in teaching topics of statistical inference remotely to over 30 students in one-on-one sessions
-- Mentored students in cleaing and processing data with R in preperation for statistical analyisis
 - Aided students in creating quality data visualizations using base R and ggplot to give clear visual presentations in R Markdown
+- Mentored students in cleaing and processing data with R in preperation for statistical analyisis
 
 `September 2016 - July 2020`
 __Circulation Aide__, David O. McKay Library, BYU-Idaho 
