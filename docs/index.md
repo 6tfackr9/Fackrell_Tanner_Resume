@@ -23,7 +23,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Minor in Statistics
 
 ## Skills
-__R | Python | SQL | Power BI | Tableau | C++__
+__R, Python, SQL, Power BI, Tableau, C++__
 
 ## Experience
 
