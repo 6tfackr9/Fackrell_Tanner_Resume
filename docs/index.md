@@ -51,7 +51,7 @@ __Circulation Aide__, David O. McKay Library, BYU-Idaho
 `September 2020 - December 2020`
 __R Shiny Dashboard__, Madison County Fire Department, BYU-I Data Science Society
 
-- Collaborated with a group to build an interactive dashboard to show gallons per minute available from fire hydrants based on distance
+- Collaborated with a group to build an interactive dashboard to calculate gallons per minute available from fire hydrants based on distance
 - Implemented an interactive map with geocoding and the R leaflet library
 
 
