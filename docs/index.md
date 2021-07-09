@@ -9,7 +9,7 @@ Data Science student at BYU-Idaho
 <a href="tanner.fackrell@gmail.com">tanner.fackrell@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/tanner-fackrell/">LinkedIn</a>
-| <a href="https://github.com/6tfackr9">GitHub</a>
+| <a href="https://github.com/JTanner4">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
